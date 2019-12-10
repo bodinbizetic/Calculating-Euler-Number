@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numericka", "Numericka\Numericka.csproj", "{4F1226A9-F88C-4681-9B3C-DF3C808AB6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1226A9-F88C-4681-9B3C-DF3C808AB6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1226A9-F88C-4681-9B3C-DF3C808AB6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1226A9-F88C-4681-9B3C-DF3C808AB6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1226A9-F88C-4681-9B3C-DF3C808AB6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E4AD98-9632-48A6-A3A3-CF6D6BFA8925}
+	EndGlobalSection
+EndGlobal

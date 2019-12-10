@@ -1,0 +1,9 @@
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\bin\Debug\Semestralni rad - num.exe.config
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\bin\Debug\Semestralni rad - num.exe
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\bin\Debug\Semestralni rad - num.pdb
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\obj\Debug\Numericka.csprojAssemblyReference.cache
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\obj\Debug\Semestralni_rad___num.Form1.resources
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\obj\Debug\Semestralni_rad___num.Properties.Resources.resources
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\obj\Debug\Numericka.csproj.GenerateResource.cache
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\obj\Debug\Semestralni rad - num.exe
+C:\Users\Dinbo\Desktop\NUMDIS\Numericka\Numericka\obj\Debug\Semestralni rad - num.pdb
